@@ -1,2 +1,5 @@
-print("j'apprends pyhton")
-print("le resultat de 17 + 35 * 2 est:87")
+age = 14
+nom = "Evan"
+age = 34
+
+print(f"je m'appelle {nom} et j'ai {age} ans maintenant")
